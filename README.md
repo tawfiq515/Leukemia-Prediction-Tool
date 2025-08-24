@@ -1,5 +1,8 @@
 ### Leukemia Prediction Tool (Streamlit + ML)
 
+Developed by [Tawfiq](https://github.com/tawfiq515) & [Rama Al Jada’](https://github.com/RamaAljada)
+
+
 Interactive Streamlit web app powered by Machine Learning to estimate leukemia risk from blood test inputs.  
 Supports **CSV upload** and **manual input**, auto-maps messy column names via a smart alias dictionary, and saves per-user history to compare trends over time.
 
