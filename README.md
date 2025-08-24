@@ -42,7 +42,7 @@ Open http://localhost:8501 in your browser automatically.
 
 If the browser doesn’t open, copy the URL from the terminal.
 
-5. Try it out
+### Try it out
 
 Select Upload CSV → upload a blood test file.
 
@@ -50,7 +50,7 @@ Or choose Manual Input → type values directly.
 
 Click Analyze → see classification results, risk %, recommendations, and history comparison.
 
-6. Stop the server
+### Stop the server
 
 Press Ctrl + C in the terminal to exit.
 
