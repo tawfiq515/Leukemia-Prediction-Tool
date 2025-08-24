@@ -89,7 +89,7 @@ textColor="#0077B6"
 ### 4. Acknowledgments
 
 Built by 
-### Tawfiq and Rama Al Jada’.
+### Tawfiq and Rama Al Jada.
 Special thanks to open-source libraries: Streamlit, scikit-learn, XGBoost, Pandas, and NumPy.
 
 
